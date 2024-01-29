@@ -7,4 +7,8 @@ layout: default
 
 # Home
 
+[about](/about)
+
+## Blog
+
 [2024-01-29 Welcome to the official PyTerm website](/Welcome)
