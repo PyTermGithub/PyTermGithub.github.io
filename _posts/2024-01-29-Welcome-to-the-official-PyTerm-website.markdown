@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Welcome to the official PyTerm website
 permalink: /Welcome/
 ---
